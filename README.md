@@ -1,1 +1,2 @@
-# taro
+# 
+This is a learning project
