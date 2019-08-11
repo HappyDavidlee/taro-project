@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b379bc1e-27b5-4ac2-b493-bcd4539439cf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/cata.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/del.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/loginBack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/myzan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/return.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/zan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/zhuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/menu/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/menu/menu.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/templater.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/menu.js" afterDir="false" />
-    </list>
+    <list default="true" id="b379bc1e-27b5-4ac2-b493-bcd4539439cf" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/menu/menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="715">
               <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
@@ -74,11 +56,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="240">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -303,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565491123893</updated>
-      <workItem from="1565491125185" duration="7089000" />
+      <workItem from="1565491125185" duration="7415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7089000" />
+    <option name="totallyTimeSpent" value="7415000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1315" y="23" width="1245" height="1417" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" anchor="bottom" content_ui="combo" id="Project" order="11" visible="true" weight="0.25019187" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32847276" />
@@ -421,13 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -437,10 +414,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/menu/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="715">
           <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
